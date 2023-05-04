@@ -1,0 +1,2 @@
+v2-periphery/=lib/v2-periphery/contracts/interfaces
+v2-core/=lib/v2-core/contracts/interfaces
